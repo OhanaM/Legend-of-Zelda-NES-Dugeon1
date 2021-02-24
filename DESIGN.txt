@@ -1,0 +1,19 @@
+a. What is the pitch for your custom level?
+Our custom level uses our new alternate weapon: the tether. Players will have to use the tether to create bridges across water to reach otherwise inaccessible areas, as well as to move things such as enemies out of the way... or even items like bombs *to* the enemy.
+
+b. What is the pitch for your custom mechanic?
+Our custom mechanic is a tether shooter. It shoots tether arrows that, when shot in pairs, create tethers between them. They have multiple uses depending on whether they hit walls (creating bridges to walk across) or enemies (restraining the enemy).
+
+c. How does your new mechanic/custom level change the way the game is played?
+Our tether shooter changes the way the game is played in multiple ways. Obstacles that you can shoot over, like water, can now also be crossed over by the player themselves, allowing for more exploration of the world once the tether is obtained. Similarly, progression could also be gated by requiring the tether shooter to move an obstacle (like a blade trap) out of the way. 
+
+d. What new interesting decisions does your new mechanic/custom level bring about?
+The tether can affect the player's decisions while approaching combat encounters. They may enjoy using the tether as a way to slingshot items such as bombs at large groups of enemies, or to restrain threatening enemies so that they may be dealt with more easily.
+
+e. How do you explain the new mechanic to the player (or make its utility obvious) while they are playing without using a bunch of clumsy text?
+The first room the player is presented with has the tether, as well as a locked door, which makes it clear that the player needs to obtain a key. The only other door (which is open) leads to a room with a key on the other side of a water obstacle. Clearly, the player needs to reach that key somehow, but their only tool at hand is the tether, so by firing it they can easily figure out that the tether can make bridges and reach the key. After going past the locked door, progression is halted by a blade trap blocking a narrow hallway. The player knows they need to get past the blade trap, as that's the only way to the door, so shooting it with the tether is a reasonable conclusion. There is also a little gap on the side to hint to the player that they should shoot the wall. Shooting the blade trap and the wall with the tether pulls the blade trap out of the way, letting the player build another bridge to progress and exit the room! In the final puzzle room, the room is largely filled with water bar a platform for the player and another platform with a large group of stalfos on it. The player's platform has a stockpile of bomb collectables, hinting to the player that they can be used somehow against the seemingly-unreachable stalfos when using the tether. Dropping a bomb, and shooting it and a stalfos will propel the bomb towards the stalfos, clearing the whole group and letting the player build a bridge to progress to the end chamber.
+
+f. What are the URLs to your online portfolios?
+Bri Epstein (bdepst): 
+Qinwei Wu(qinweiwu):http://www-personal.umich.edu/~qinweiwu/
+Credit: MisterMike for sprites, FontSpace for fonts.
